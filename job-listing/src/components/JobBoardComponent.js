@@ -30,9 +30,9 @@ const JobBoardComponent = ({
 
   return (
     <div
-      className={`flex flex-col bg-white shadow-md my-16 mx-10 p-10 rounded ${
+      className={`flex flex-col bg-white shadow-md my-16 mx-16 p-6 rounded ${
         featured && "border-l-8 border-black border-solid"
-      } sm:flex-row `}
+      } sm:flex-row sm:my-4 `}
     >
       <div>
         <img
