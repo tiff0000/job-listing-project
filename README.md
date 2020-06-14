@@ -2,7 +2,9 @@
 
 ## Welcome! 👋
 
-**This is a job listing react project**
+**This is a job listing react project**  
+
+see [live](https://job-listing-react.netlify.app/) 
 
 ## Project Description
 
